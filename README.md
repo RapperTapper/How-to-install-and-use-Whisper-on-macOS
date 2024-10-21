@@ -6,7 +6,7 @@ https://github.com/openai/whisper/blob/main/README.md
 ## Ist Homebrew installiert?
 - öffne Terminal
 
-## Command
+### Command
 ```
 brew update
 ```
@@ -14,7 +14,7 @@ brew update
 oder
 → update wird ausgeführt (YAY)
 
-## Command
+### Command
 ```
 brew install ffmpeg
 ```
