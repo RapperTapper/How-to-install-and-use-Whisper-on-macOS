@@ -38,6 +38,7 @@ https://www.icloud.com/shortcuts/35a4900058b14222bfb67440e1fde90a
 ### EN-medium (genauer)
 https://www.icloud.com/shortcuts/1c7776e8c2c845e09bec26a102bbdbad
 
+## Anwendung
 → rechtsklick auf Audio- oder Videodatei → Model und Sprache wählen
 
 
