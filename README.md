@@ -15,7 +15,9 @@ oder
 → update wird ausgeführt (YAY)
 
 ## Command
+```
 brew install ffmpeg
+```
 
 ##D ownload for M1 Mac (& Intel Mac)
 https://www.icloud.com/shortcuts/680a9b00fd2f4d13adefdcbb2271fab9
@@ -42,6 +44,8 @@ https://www.icloud.com/shortcuts/1c7776e8c2c845e09bec26a102bbdbad
 
 
 # How to install Homebrew
+```
 Install Homebrew/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 → Die letzten 3 Commands noch kopieren und ausführen
