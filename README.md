@@ -27,7 +27,7 @@ Enable “Private Sharing” on the Shortcuts app and then “Allow Running Scri
 
 ## Download
 ### DE-tiny (schnell)
-https://www.icloud.com/shortcuts/dc00d53624cf409d9aeefc112efac4e6
+https://www.icloud.com/shortcuts/c80d58227c934861b645d02759c7abb8
 
 ### De-medium (genauer)
 https://www.icloud.com/shortcuts/58f616ea91f245c0bb4263ace2063d91
