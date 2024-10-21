@@ -19,7 +19,7 @@ oder
 brew install ffmpeg
 ```
 
-##D ownload for M1 Mac (& Intel Mac)
+## Download for M1 Mac (& Intel Mac)
 https://www.icloud.com/shortcuts/680a9b00fd2f4d13adefdcbb2271fab9
 
 ## To-Do
