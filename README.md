@@ -7,8 +7,9 @@ https://github.com/openai/whisper/blob/main/README.md
 - öffne Terminal
 
 ## Command
+```
 brew update
-
+```
 → command not found (Homebrew ist noch nicht installiert) (springe zu How to install Homebrew und kehre danach zurück)
 oder
 → update wird ausgeführt (YAY)
